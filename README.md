@@ -54,11 +54,6 @@ Project is : In progress.
 
 
 
-## Team
-
-- [@Aniket Ujgare](https://github.com/aniketujgare)
-- [@Tejas Badone](https://github.com/tejasbadone)
-
 
 ## Contact
 - Aniket Ujgare <br> <br>
